@@ -2,4 +2,6 @@
 basic tes untuk opsigo
 
 go version go1.16.2
-Jalan kan degan klik go run main.go
+
+Edit main.go untuk ubah soal
+Jalan kan degan ketik "go run main.go"
